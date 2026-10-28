@@ -1,17 +1,15 @@
 body{
-    margin: 0%;
-    height: 100vh;
-    background: linear-gradient(to right, red 50%, green 50%);
+    background-color: cadetblue;
 }   
 
 .button {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    padding: 10px 20px;
-    font-size: 16px;
-    cursor: pointer;
-    height: 50px;
-    width: 100px;
+    background-color: cornflowerblue;
+    padding: 10px;
+    border:2px solid black;
+    border-radius: 4px;
+    height: 30px;
+    width: 60px;
+    color: white;
+    font-size: 15px;
+    cursor: pointer
 }
