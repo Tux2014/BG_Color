@@ -3,7 +3,7 @@ body{
 }   
 
 button {
-    background-color: red;
+    background-color: rgb(48, 99, 166);
     padding: 10px;
     border:2px solid black;
     border-radius: 4px;
